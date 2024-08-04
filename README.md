@@ -4,23 +4,21 @@
 </h3>
 
 <div align="center">
-  <a href="https://www.zzzwb.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/bin862324915">
+  <a href="https://github.com/sun589">
     <img src="https://github-profile-trophy.vercel.app/?username=sun589&theme=apprentice">
   </a>
 </p>
 
-<a href="https://github.com/bin862324915#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=bin862324915&repo=bin862324915&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+<a href="https://github.com/sun589#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=sun589&repo=sun589&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/bin862324915#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=bin862324915&repo=bin862324915&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<a href="https://github.com/sun589#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=sun589&repo=sun589&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 我的项目
@@ -28,7 +26,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/bin862324915/piaoliuping"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=bullshit_translate&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/sun589/bullshit_translate"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=bullshit_translate&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/sun589/QQkey_Tool"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=QQkey_Tool&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/sun589/Super-Dos"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=Super-Dos&theme=prussian&hide_border=true"></a>
 </p>
