@@ -13,15 +13,7 @@
   </a>
 </p>
 
-<!--
-<a href="https://github.com/sun589#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=sun589&repo=sun589&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/sun589#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=sun589&repo=sun589&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
--->
+![暗色贪吃蛇](https://raw.githubusercontent.com/sun589/sun589/output/github-contribution-grid-snake-dark.svg)
 
 ## 📘 我的项目
 
