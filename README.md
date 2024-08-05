@@ -13,7 +13,9 @@
   </a>
 </p>
 
-![暗色贪吃蛇](https://raw.githubusercontent.com/sun589/sun589/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img alt="暗色贪吃蛇" src="https://raw.githubusercontent.com/sun589/sun589/output/github-contribution-grid-snake-dark.svg">
+</div>
 
 ## 📘 我的项目
 
