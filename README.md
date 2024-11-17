@@ -24,7 +24,6 @@
 <p align="left">
   <a href="https://github.com/sun589/bullshit_translate"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=bullshit_translate&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/sun589/QQkey_Tool"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=QQkey_Tool&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/sun589/Super-Dos"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=sun589&repo=Super-Dos&theme=prussian&hide_border=true"></a>
 </p>
 
 <p align="left">
