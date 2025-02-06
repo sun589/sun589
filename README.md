@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
 </div>
 
+
+
 <p align="center">
   <a href="https://github.com/sun589">
     <img src="https://github-profile-trophy.vercel.app/?username=sun589&theme=apprentice">
@@ -30,6 +32,9 @@
 <p align="left">
   <a href="https://github.com/sun589?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+## [😀赞助我](https://afdian.com/a/sun589)
+详见[爱发电](https://afdian.com/a/sun589)
 
 ## 🛠️ 使用中的软件和工具
 
