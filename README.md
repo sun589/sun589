@@ -4,15 +4,13 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="心向星空，梦往远方。" />
 </div>
 
 
 
 <p align="center">
-  <a href="https://github.com/sun589">
-    <img src="https://github-profile-trophy.vercel.app/?username=sun589&theme=apprentice">
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sun589&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sun589's github stats" /></a>
 </p>
 
 <div align="center">
